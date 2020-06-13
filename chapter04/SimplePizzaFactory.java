@@ -1,5 +1,7 @@
 package chapter04;
 
+import chapter04.pizzas.*;
+
 public class SimplePizzaFactory {
 
     public Pizza createPizza(String type) {
