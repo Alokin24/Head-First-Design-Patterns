@@ -6,6 +6,7 @@ import chapter02.java_built_in_implementation.displays.CurrentConditionalDisplay
 import chapter02.java_built_in_implementation.displays.ForecastDisplay;
 import chapter02.java_built_in_implementation.displays.StatisticsDisplay;
 
+// Finished
 public class WeatherStation {
 
     public static void main(String[] args) {
