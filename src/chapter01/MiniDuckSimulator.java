@@ -4,6 +4,7 @@ import chapter01.behaviours.FlyRocketPowered;
 import chapter01.ducks.MallardDuck;
 import chapter01.ducks.ModelDuck;
 
+// FINISHED
 public class MiniDuckSimulator {
     public static void main(String[] args) {
         MallardDuck mallardDuck = new MallardDuck();
